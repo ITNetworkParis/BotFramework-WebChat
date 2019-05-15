@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b4259e9465b6d4d079673d8e7f6328f",
+    "revision": "18f7a0df90ad61fc076d3331e3f66f69",
     "url": "/BotFramework-WebChat/17.chat-send-history/index.html"
   },
   {
-    "revision": "0c5acbd2101785913db5",
+    "revision": "4f917ae9910819223c47",
     "url": "/BotFramework-WebChat/17.chat-send-history/static/css/main.c0c51a48.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BotFramework-WebChat/17.chat-send-history/static/js/2.3ad78798.chunk.js"
   },
   {
-    "revision": "0c5acbd2101785913db5",
-    "url": "/BotFramework-WebChat/17.chat-send-history/static/js/main.c9ce763c.chunk.js"
+    "revision": "4f917ae9910819223c47",
+    "url": "/BotFramework-WebChat/17.chat-send-history/static/js/main.847e5431.chunk.js"
   },
   {
     "revision": "d507518806ae0c26a0be",
